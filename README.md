@@ -11,7 +11,7 @@
 
 - 💬 Ask me about Flutter Dev Technologies
 
-- 👨‍💻 All of my projects are available at https://g.dev/awansharjeel9897
+- 👨‍💻 All of my projects are available in Repository Section
 
 - 👯 I’m looking to collaborate on Open Source Projects
 
