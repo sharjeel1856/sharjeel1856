@@ -17,8 +17,6 @@
 
 - 💥Fun Fact "I will Collaborate with you".
   
--  🔭 I’m currently working on Android Mobile Apps
-
 - 📧 Feel free To reach out to me for app development projects or collaborations. Let's build something amazing together!
 
   </h4>
