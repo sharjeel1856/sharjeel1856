@@ -7,19 +7,19 @@
 <img align="right" alt="Coding" height="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
-- 🌱 I’m currently learning Payment Methords
+ Always curious, always coding — I love turning ideas into real, working apps
 
--  🔭 I’m currently working on Android Mobile Apps
+📲 Building seamless mobile experiences using Flutter
 
-- 💬 Ask me about Flutter Dev Technologies
+🌍 Exploring how technology can solve real-world problems
 
-- 👨‍💻 All of my projects are available in Repository Section
+🔗 I believe in the power of collaboration & community-driven development
 
-- 👯 I’m looking to collaborate on Open Source Projects
+✨ My focus: Writing clean code, scalable apps, and delivering user-first designs
 
-- 💥Fun Fact "I will Collaborate with you".
-  
-- 📧 Feel free To reach out to me for app development projects or collaborations. Let's build something amazing together!
+🎯 Mission: To grow, share knowledge, and contribute to meaningful tech solutions
+
+📢 Let’s brainstorm, build, and launch something extraordinary together!
 
   </h4>
 
