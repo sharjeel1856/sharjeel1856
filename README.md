@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Sharjeel</h1>
 
-<h3 align="center">A passionate Flutter Mobile Application Developer👨‍💻</h3>
+<h3 align="center">A passionate Flutter Developer👨‍💻</h3>
 <img align="right" alt="Coding" height="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
