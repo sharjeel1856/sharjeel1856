@@ -75,11 +75,10 @@ Always curious, always coding — I love turning ideas into real, working soluti
 </div>
 
 ###
-
 <div align="left">
   <h3 align="left">Connect with me:</h3>
-  <a href="its_sharjeel_67173" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://msharjeel.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
   <a href="awansharjeel1122@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -87,9 +86,10 @@ Always curious, always coding — I love turning ideas into real, working soluti
   <a href="https://www.linkedin.com/in/muhammad-sharjeel-awan-59a255203/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
+  <a href="https://stackoverflow.com/users/22739363/muhammad-sharjeel?tab=profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
 </div>
-
 ###
 
 <br clear="both">
