@@ -1,25 +1,22 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Muhammad Sharjeel</h1>
-
-<h3 align="center">A passionate Flutter Developer👨‍💻</h3>
+<h3 align="center">Software Engineer | Mobile, Backend & AI Systems</h3>
 <img align="right" alt="Coding" height="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+Always curious, always coding — I love turning ideas into real, working solutions
 
- Always curious, always coding — I love turning ideas into real, working apps
+📱 Building seamless mobile experiences with Flutter
 
-📲 Building seamless mobile experiences using Flutter
+⚙️ Developing scalable backend systems using Django, FastAPI & Firebase
 
-🌍 Exploring how technology can solve real-world problems
+🤖 Creating intelligent solutions with LLMs, Agentic AI & automation tools
 
-🔗 I believe in the power of collaboration & community-driven development
+🌍 Solving real-world problems through technology
 
-✨ My focus: Writing clean code, scalable apps, and delivering user-first designs
+✨ My focus: Writing clean code, building scalable systems, and delivering user-first experiences
 
-🎯 Mission: To grow, share knowledge, and contribute to meaningful tech solutions
+🎯 Mission: To grow, share knowledge, and contribute to meaningful tech innovations
 
-📢 Let’s brainstorm, build, and launch something extraordinary together!
+📢 Let's collaborate, build, and launch something extraordinary together!
 
   </h4>
 
