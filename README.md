@@ -90,7 +90,6 @@ Always curious, always coding — I love turning ideas into real, working soluti
     <img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
-###
 
 <br clear="both">
 
