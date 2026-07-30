@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sharjeel</h1>
-<h3 align="center">Software Engineer | Mobile, Backend & AI Systems</h3>
+<h3 align="center">Software Engineer | Mobile, Web, Backend & AI Systems</h3>
 <img align="right" alt="Coding" height="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 Always curious, always coding — I love turning ideas into real, working solutions
 
-📱 Building seamless mobile experiences with Flutter
+📱 Building seamless mobile, desktop experiences with Flutter & React for Web
 
-⚙️ Developing scalable backend systems using Django, FastAPI & Firebase
+⚙️ Developing scalable backend systems using Django, FastAPI, Firebase & Supabase
 
 🤖 Creating intelligent solutions with LLMs, Agentic AI & automation tools
 
